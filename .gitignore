@@ -1,7 +1,12 @@
-out/
-7B/
-13B/
+llama-7b/
+llama-13b/
+llama-30b/
+llama-65b/
+
+*-trained/
+
 __pycache__/
+.ipynb_checkpoints/
 checkpoint**
-minimal-llama**
-upload.py
+
+wandb/
